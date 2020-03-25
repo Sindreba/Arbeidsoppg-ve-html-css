@@ -4,7 +4,7 @@ body {
 	background-color: #e74c3c;
   animation: bg-color 10s infinite;
   -webkit-animation: bg-color 10s infinite;
-  text-align: center;
+  
 }
 
 @-webkit-keyframes bg-color {
